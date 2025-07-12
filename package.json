@@ -1,0 +1,11 @@
+{
+	"devDependencies": {
+		"jest": "^30.0.4",
+		"@testing-library/react": "^16.3.0",
+		"@testing-library/jest-dom": "^6.6.3"
+	},
+	"scripts": {
+  "test": "jest"
+}
+
+}
